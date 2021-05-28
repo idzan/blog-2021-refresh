@@ -1,5 +1,17 @@
 {
   "devDependencies": {
     "scss": "^0.2.4"
-  }
+  },
+  "name": "blog-2021-refresh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ometa": "^0.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
