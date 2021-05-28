@@ -13,5 +13,14 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idzan/blog-2021-refresh.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/idzan/blog-2021-refresh/issues"
+  },
+  "homepage": "https://github.com/idzan/blog-2021-refresh#readme",
   "description": ""
 }
